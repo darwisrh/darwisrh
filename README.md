@@ -74,8 +74,11 @@
 
 <br />
 
-<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darwisrh&hide_progress=true)](https://github.com/darwisrh/github-readme-stats)</div>
-
+<div align="center">
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darwisrh&hide_progress=true)](https://github.com/darwisrh/github-readme-stats)
+  
+</div>
 <br />
 
 ----
