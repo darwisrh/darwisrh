@@ -5,7 +5,7 @@
 
 - For CSS frameworks i'm learning Tailwind and ChakraUI
   
-- ElectronJs to build Desktop App
+- Also i'm learning ElectronJS to build Desktop App
 
 - And for backend i'm currently learning Go and NodeJS  
   
