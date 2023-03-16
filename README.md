@@ -1,7 +1,9 @@
 ### <div align="center">Hi, i'm Darwis, a junior full-stack developer.</div>  
   
 
-- I'm currently learning ReactJS, Typescript and Redux for frontend  
+- I'm currently learning ReactJS, Typescript, and Redux
+
+- For CSS frameworks i'm learning Tailwind and ChakraUI
   
 - ElectronJs to build Desktop App
 
