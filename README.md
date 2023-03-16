@@ -7,7 +7,7 @@
   
 - Also i'm learning ElectronJS to build Desktop App
 
-- And for backend i'm currently learning Go and NodeJS  
+- And for backend i'm currently learning Go and NodeJS, maybe Laravel soon idk
   
 
 <br/>  
