@@ -3,10 +3,6 @@
 
 - I'm currently learning ReactJS, Typescript, Webpack and Redux
 
-- For CSS frameworks i'm learning Tailwind, SemanticUI-React and ChakraUI
-  
-- Also i'm learning ElectronJS to build Desktop App
-
 - And for backend i'm currently learning Go and NodeJS, maybe Laravel soon idk
   
 
