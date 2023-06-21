@@ -1,9 +1,7 @@
 ### <div align="center">Hi, i'm Darwis, a junior full-stack developer.</div>  
   
 
-- I'm currently learning ReactJS, Typescript, Webpack and Redux
-
-- And for backend i'm currently learning Go and NodeJS, maybe Laravel soon idk
+- Chillin ☕
   
 
 <br/>  
