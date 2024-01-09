@@ -1,4 +1,4 @@
-### <div align="center">Hi, i'm Darwis, a junior full-stack developer.</div>  
+### <div align="center">Hi, i'm Darwis, a Software Engineer</div>  
   
 
 - Chillin ☕
