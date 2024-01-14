@@ -1,7 +1,7 @@
 ### <div align="center">Hi, i'm Darwis, a Software Engineer</div>  
   
 
-- Chillin ☕
+- Try harder next time 💀
   
 
 <br/>  
